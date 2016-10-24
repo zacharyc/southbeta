@@ -1,0 +1,47 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+	<channel>
+		<title>South Beta Podcast</title>
+		<link>http://www.southbeta.com</link>
+		<description>Podcast conversations about climbing</description>
+	
+		<language>en-us</language>
+	    <pubDate>Mon, 3 Oct 2016 09:00:07 PDT</pubDate>
+    	<lastBuildDate>Mon, 3 Oct 2016 09:00:07 PDT</lastBuildDate>
+    	
+    	<itunes:category text="Sports &amp; Recreation" />
+    	
+    	<itunes:explicit>Yes</itunes:explicit>
+    	<itunes:image href="http://www.southbeta.com/southbeta.png"/>
+      <itunes:author>Zack &amp; Evan</itunes:author>
+
+      <item>
+          <itunes:author>Zack &amp; Evan</itunes:author>
+            <itunes:keywords/>
+          <itunes:duration>1:00</itunes:duration>
+          <itunes:category text="Sports &amp; Recreation" />
+          <title>South Beta: 02</title>
+          <itunes:image href="http://www.southbeta.com/southbeta.png"/>
+          <guid isPermaLink="true">http://www.southbeta.com/episodes/south-beta-002.mp3</guid>
+          <description>Episode Number 2 of the new South Beta Podcast.</description>
+
+          <category>News</category>
+          <pubDate>Mon, 3 Oct 2016 09:00:07 PDT</pubDate>
+          <enclosure length="87705309" url="http://www.southbeta.com/episodes/south-beta-002.mp3" type="audio/mpeg"/>
+      </item>
+
+    	<item>
+	      	<itunes:author>Zack &amp; Evan</itunes:author>
+      	  	<itunes:keywords/>
+      		<itunes:duration>0:46</itunes:duration>
+      		<itunes:category text="Sports &amp; Recreation" />
+      		<title>South Beta: 01</title>
+          <itunes:image href="http://www.southbeta.com/southbeta.png"/>
+      		<guid isPermaLink="true">http://www.southbeta.com/episodes/RockJocks1-cut.mp3</guid>
+      		<description>Introduction to the podcast series.</description>
+
+	      	<category>News</category>
+      		<pubDate>Mon, 3 Oct 2016 09:00:07 PDT</pubDate>
+      		<enclosure length="65284724" url="http://www.southbeta.com/episodes/RockJocks1-cut.mp3" type="audio/mpeg"/>
+    	</item>
+	</channel>
+</rss>
