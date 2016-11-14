@@ -17,13 +17,30 @@
       <item>
           <itunes:author>Zack &amp; Evan</itunes:author>
             <itunes:keywords/>
+          <itunes:duration>0:35:53</itunes:duration>
+          <itunes:category text="Sports &amp; Recreation" />
+          <title>South Beta 04: Types of climbing part 1</title>
+          <itunes:image href="http://www.southbeta.com/southbeta.png"/>
+          <guid isPermaLink="true">http://www.southbeta.com/episodes/south-beta-004.mp3</guid>
+          <itunes:summary>In this episode we first introduce Claire VanGo, where we host this episode. The intro has been updated to better stress what we cover, this is a personal exploration through the climbing community and climbing lifestyle. We start covering the different types of climbing but run out of clock. Consider this episode to be continued.</itunes:summary>
+          
+          <description>In this episode we first introduce Claire VanGo, where we host this episode. The intro has been updated to better stress what we cover, this is a personal exploration through the climbing community and climbing lifestyle. We start covering the different types of climbing but run out of clock. Consider this episode to be continued.</description>
+
+          <category>News</category>
+          <pubDate>Sun, 13 Nov 2016 19:31:07 PDT</pubDate>
+          <enclosure length="51682660" url="http://www.southbeta.com/episodes/south-beta-004.mp3" type="audio/mpeg"/>
+      </item>
+
+      <item>
+          <itunes:author>Zack &amp; Evan</itunes:author>
+            <itunes:keywords/>
           <itunes:duration>1:10:11</itunes:duration>
           <itunes:category text="Sports &amp; Recreation" />
           <title>South Beta: 03</title>
           <itunes:image href="http://www.southbeta.com/southbeta.png"/>
           <guid isPermaLink="true">http://www.southbeta.com/episodes/south-beta-003.mp3</guid>
           <itunes:summary>This is our third installment of our South Beta podcast. We talk about various topics including our outdoor climbing adventures, the three stitch pitch, and seeing Alex Honnald from a far.</itunes:summary>
-          
+
           <description>This is our third installment of our South Beta podcast. We talk about various topics including our outdoor climbing adventures, the three stitch pitch, and seeing Alex Honnald from a far.</description>
 
           <category>News</category>

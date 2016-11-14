@@ -19,8 +19,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Your source for climbing chats from two climbers based in the south bay.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://southbeta.com" # the base hostname & protocol for your site
-twitter_username: zacharyc
-github_username:  zacharyc
+twitter_username: climbsouthbeta
+github_username:  
 
 # Build settings
 markdown: kramdown
