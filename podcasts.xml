@@ -17,6 +17,40 @@
       <item>
           <itunes:author>Zack &amp; Evan</itunes:author>
             <itunes:keywords/>
+          <itunes:duration>1:02:32</itunes:duration>
+          <itunes:category text="Sports &amp; Recreation" />
+          <title>South Beta 06: Bouldering</title>
+          <itunes:image href="http://www.southbeta.com/southbeta.png"/>
+          <guid isPermaLink="true">http://www.southbeta.com/episodes/south-beta-006.mp3</guid>
+          <itunes:summary>In this episode we delve into the particular aspact of climbing known as bouldering. We talk about history of boulder, training, and provide some tips for improving your bouldering abilities.</itunes:summary>
+          
+          <description>In this episode we delve into the particular aspact of climbing known as bouldering. We talk about history of boulder, training, and provide some tips for improving your bouldering abilities.</description>
+
+          <category>News</category>
+          <pubDate>Fri, 13 Jan 2016 01:05:07 PDT</pubDate>
+          <enclosure length="90059464" url="http://www.southbeta.com/episodes/south-beta-006.mp3" type="audio/mpeg"/>
+      </item>
+
+      <item>
+          <itunes:author>Zack &amp; Evan</itunes:author>
+            <itunes:keywords/>
+          <itunes:duration>0:54:59</itunes:duration>
+          <itunes:category text="Sports &amp; Recreation" />
+          <title>South Beta 05: Finger Issues</title>
+          <itunes:image href="http://www.southbeta.com/southbeta.png"/>
+          <guid isPermaLink="true">http://www.southbeta.com/episodes/south-beta-005.mp3</guid>
+          <itunes:summary>It's been a long time since we've uploaded an episode, but here's a new one. We have decided to shift the format up a bit and talk a bit more about finger issues and various other climbing performance suggestions before we go into our climbing updates. Hopefully the new format will provide a bit more structure and maybe fewer tangents.</itunes:summary>
+          
+          <description>It's been a long time since we've uploaded an episode, but here's a new one. We have decided to shift the format up a bit and talk a bit more about finger issues and various other climbing performance suggestions before we go into our climbing updates. Hopefully the new format will provide a bit more structure and maybe fewer tangents.</description>
+
+          <category>News</category>
+          <pubDate>Sun, 28 Dec 2016 14:03:07 PDT</pubDate>
+          <enclosure length="79181449" url="http://www.southbeta.com/episodes/south-beta-005.mp3" type="audio/mpeg"/>
+      </item>
+
+      <item>
+          <itunes:author>Zack &amp; Evan</itunes:author>
+            <itunes:keywords/>
           <itunes:duration>0:35:53</itunes:duration>
           <itunes:category text="Sports &amp; Recreation" />
           <title>South Beta 04: Types of climbing part 1</title>

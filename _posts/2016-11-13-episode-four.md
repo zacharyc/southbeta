@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Episode Four: Types of climbing"
+title:  "Episode Four: Types of climbing part 1"
 date:   2016-11-06 15:03:00 -0700
 categories: podcast episode
 ---
