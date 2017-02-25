@@ -14,6 +14,23 @@
       <itunes:image href="http://www.southbeta.com/southbeta.png"/>
       <itunes:author>Zack &amp; Evan</itunes:author>
 
+	  <item>
+          <itunes:author>Zack &amp; Evan</itunes:author>
+            <itunes:keywords/>
+          <itunes:duration>0:51:29</itunes:duration>
+          <itunes:category text="Sports &amp; Recreation" />
+          <title>South Beta 07: Utah</title>
+          <itunes:image href="http://www.southbeta.com/southbeta.png"/>
+          <guid isPermaLink="true">http://www.southbeta.com/episodes/south-beta-007.mp3</guid>
+          <itunes:summary>A random road trip happened over the President's Day weekend. Evan and I talk about our adventure in Utah. We continuely mock the audience size of our podcast.</itunes:summary>
+
+          <description>A random road trip happened over the President's Day weekend. Evan and I talk about our adventure in Utah. We continuely mock the audience size of our podcast.</description>
+
+          <category>News</category>
+          <pubDate>Sat, 25 Feb 2017 10:30:07 PDT</pubDate>
+          <enclosure length="74152146" url="http://www.southbeta.com/episodes/south-beta-007.mp3" type="audio/mpeg"/>
+      </item>
+
       <item>
           <itunes:author>Zack &amp; Evan</itunes:author>
             <itunes:keywords/>
@@ -23,11 +40,11 @@
           <itunes:image href="http://www.southbeta.com/southbeta.png"/>
           <guid isPermaLink="true">http://www.southbeta.com/episodes/south-beta-006.mp3</guid>
           <itunes:summary>In this episode we delve into the particular aspact of climbing known as bouldering. We talk about history of boulder, training, and provide some tips for improving your bouldering abilities.</itunes:summary>
-          
+
           <description>In this episode we delve into the particular aspact of climbing known as bouldering. We talk about history of boulder, training, and provide some tips for improving your bouldering abilities.</description>
 
           <category>News</category>
-          <pubDate>Fri, 13 Jan 2016 01:05:07 PDT</pubDate>
+          <pubDate>Fri, 13 Jan 2017 01:05:07 PDT</pubDate>
           <enclosure length="90059464" url="http://www.southbeta.com/episodes/south-beta-006.mp3" type="audio/mpeg"/>
       </item>
 
