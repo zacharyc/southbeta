@@ -1,25 +1,273 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
 
-<div class="home">
+<head>
 
-  <h1 class="page-heading">Posts</h1>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+  <title>South Beta Podcast</title>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
-          {{ post.excerpt }}
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
-  <p class="rss-subscribe"><a href="{{ "/podcasts.xml" | prepend: site.baseurl }}">Subscribe to the podcast</a></p>
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <!-- Custom styles for this template -->
+  <link href="css/scrolling-nav.css" rel="stylesheet">
 
-</div>
+</head>
+
+<body id="page-top">
+
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
+    <div class="container">
+      <a class="navbar-brand js-scroll-trigger" href="#page-top">South Beta Podcast</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#welcome">Welcome</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#episodes">Episodes</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#about">About</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <header class="bg-primary text-white">
+    <div class="container text-center">
+      <h1>South Beta Podcast</h1>
+      <p class="lead col-lg-6 mx-auto">One man's journey to untangle the know that is the climbing community in the south bay, with his co-host who occasionally knows the answers to his climbing related qeustions.</p>
+    </div>
+  </header>
+
+  <section id="welcome">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 mx-auto">
+          <h2>Welcome to the South Beta Podcast</h2>
+          <p class="lead">There is a long and glorious story behind this podcast but instead of sharing it here, we will just make you listen to all the episodes to figure it out. This is two friends talking about their passion for climbing. Discovering what is so special about the climbing community in the south bay.</p>
+
+          <p>Please consider <strong>subscribing</strong> to us on <a href="https://podcasts.apple.com/us/podcast/south-beta-podcast/id1161450328">iTunes.</a></p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="episodes" class="bg-light">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 mx-auto">
+          <h2>Episodes</h2>
+
+          <h3>Season 3</h3>
+          <article>
+            <h4>South Beta Season 3, Episode 2: P.O.P. The Point of Podcast Episode</h4>
+            <p>In this episode we unpack what this podcast means for us and where we want to take it in the future. Evan has been trying to convince Zack for ages that the podcast could be better and in this episode, Zack almost listens.</p>
+            <p>Fri, 31 Jan 2020 07:42:07 PDT</p>
+            <p><a href="https://podcasts.apple.com/us/podcast/south-beta-season-3-episode-1-p-o-p-point-podcast-episode/id1161450328?i=1000464243069">iTunes</a> * <a href="http://www.southbeta.com/episodes/south-beta-s3-e002.mp3">MP3</a></p>    
+          </article>
+          
+          <article>
+            <h4>South Beta Season 3, Episode 1: Joshing Around Episode</h4>
+            <p>We were guests in a friends house so we decided to record an episode. This being our first episode of 2020 and our first episode in nearly a year of recording, we spent much of the time getting back into the swing of things. Hope you all enjoy it.</p>
+            <p>Tue, 07 Jan 2020 10:15:07 PDT</p>
+            <p><a href="http://www.southbeta.com/episodes/south-beta-s3-e001.mp3">Episode</a></p>    
+          </article>
+
+          <h3>Season 2</h3>
+
+          <article>
+            <h4>South Beta Season 2, Episode 2: Zack Joins El Cap</h4>
+            <p>This was recorded in Febuary 2019 during SF Beer week. We talk about Zack joining the El Cap team and the new Belmont acroyoga class. Super exciting. Was supposed to be shared back then. Sorry for the delay.</p>
+            <p>Tue, 07 Jan 2020 08:41:07 PDT</p>
+            <p><a href="http://www.southbeta.com/episodes/south-beta-s2-e002.mp3">Episode</a></p>    
+          </article>
+
+          <article>
+            <h4>South Beta Season 2, Episode 1: Recap</h4>
+            <p>This is almost like a year recap episode. We get back to chatting about various climbing related topics. Enjoy at your own risk.</p>
+
+            <p>Wed, 06 Nov 2019 11:22:07 PDT</p>
+            <p><a href="http://www.southbeta.com/episodes/south-beta-s2-e001.mp3">Episode</a></p>    
+          </article>
+
+          <h3>Season 1</h3>
+
+          <article>
+            <h4>South Beta 15: Projecting</h4>
+            <p>In this episode we welcome back our special guest Bridget to ask Dr. Evan Pearce some super special questions about how he projects a climb. Humor ensues.</p>
+
+            <p>Fri, 04 Jan 2019 7:15:07 PDT</p>
+            <p><a href="http://www.southbeta.com/episodes/south-beta-015.mp3">Episode</a></p>    
+          </article>
+
+          <article>
+            <h4>South Beta 14: Earth Treks Episode</h4>
+            <p>Earth Treks and Planet Granite merged late last year and we finally have a chance to ask our questions and Evan does his best to answer them.</p>
+
+            <p>Tue, 20 Feb 2018 11:23:07 PDT</p>
+            <p><a href="http://www.southbeta.com/episodes/south-beta-014.mp3">Episode</a></p>    
+          </article>
+
+          <article>
+            <h4>South Beta 13: Big Walls 2018</h4>
+            <p>After a long break between episodes we talk about what it would take to do the bill wall project we have been planning for 2018. There is also a bunch of PG news and some other catch up stuff.</p>
+
+            <p>Tue, 7 Nov 2017 10:23:07 PDT</p>
+            <p><a href="http://www.southbeta.com/episodes/south-beta-013.mp3">Episode</a></p>    
+          </article>
+
+          <article>
+            <h4>South Beta 12: Special Guest Justin Vitcov</h4>
+            <p>We invite our friend Justin to come in and talk about how he has progressed in a multi decade long climbing career. How has he kept himself engaged in the sport? How has goals shifted over time? Listen and find out.</p>
+
+            <p>Mon, 4 Sep 2017 12:23:07 PDT</p>
+            <p><a href="http://www.southbeta.com/episodes/south-beta-012.mp3">Episode</a></p>    
+          </article>
+
+          <article>
+            <h4>South Beta 11: The Catch Up Episode</h4>
+            <p>We had no real content to talk about in this episode so we just bantered for an hour and half about random stuff, concluding with a giant discussion about LeBron James and Steph Curry. Listen at your own risk.</p>
+
+            <p>Mon, 14 Aug 2017 09:21:07 PDT</p>
+            <p><a href="http://www.southbeta.com/episodes/south-beta-011.mp3">Episode</a></p>    
+          </article>
+
+          <article>
+            <h4>South Beta 10: The Push and talking with climbers</h4>
+            <p>In this episode we talk about Tommy Caldwell and the book he just released called the push. We talk about the event at Planet Granite where Tommy came to speak and talk about the polite way to talk to professional climbers, though I'm not sure we reach any definitive conclusion.</p>
+
+            <p>Wed, 21 Jun 2017 09:10:07 PDT</p>
+            <p><a href="http://www.southbeta.com/episodes/south-beta-010.mp3">Episode</a></p>    
+          </article>
+
+          <article>
+            <h4>South Beta 09: Pushing Limits on Sport Climbing W/ Bridget</h4>
+            <p>In this episode we talk about the staff competition and how great it was. We also have a special guest Bridget that explains how she was able to push through her personal fears and improve her level on sport climbing.</p>
+
+            <p>Tue, 16 May 2017 09:53:07 PDT</p>
+            <p><a href="http://www.southbeta.com/episodes/south-beta-009.mp3">Episode</a></p>    
+          </article>
+
+
+          <article>
+            <h4>South Beta 08: Lead Climbing Part 0</h4>
+            <p>This episode is a little bit ranty. We start with the idea of talking about lead climbing but end up hitting a very wide range of topics from our spirit animals to acro yoga and back to climbing again. There is som trash talking about the upcoming staff competition as well as talking about the Ohm, a new resistive climbing device to help compensate for my weight.</p>
+
+            <p>Thu, 20 Apr 2017 10:30:07 PDT</p>
+            <p><a href="http://www.southbeta.com/episodes/south-beta-008.mp3">Episode</a></p>    
+          </article>
+
+
+          <article>
+            <h4>South Beta 07: Utah</h4>
+            <p>A random road trip happened over the President's Day weekend. Evan and I talk about our adventure in Utah. We continuely mock the audience size of our podcast.</p>
+
+            <p>Sat, 25 Feb 2017 10:30:07 PDT</p>
+            <p><a href="http://www.southbeta.com/episodes/south-beta-007.mp3">Episode</a></p>    
+          </article>
+
+
+          <article>
+            <h4>South Beta 06: Bouldering</h4>
+            <p>In this episode we delve into the particular aspact of climbing known as bouldering. We talk about history of boulder, training, and provide some tips for improving your bouldering abilities.</p>
+
+            <p>Fri, 13 Jan 2017 01:05:07 PDT</p>
+            <p><a href="http://www.southbeta.com/episodes/south-beta-006.mp3">Episode</a></p>    
+          </article>
+
+
+          <article>
+            <h4>South Beta 05: Finger Issues</h4>
+            <p>It's been a long time since we've uploaded an episode, but here's a new one. We have decided to shift the format up a bit and talk a bit more about finger issues and various other climbing performance suggestions before we go into our climbing updates. Hopefully the new format will provide a bit more structure and maybe fewer tangents.</p>
+
+            <p>Sun, 28 Dec 2016 14:03:07 PDT</p>
+            <p><a href="http://www.southbeta.com/episodes/south-beta-005.mp3">Episode</a></p>    
+          </article>
+
+          <article>
+            <h4>South Beta 04: Types of climbing part 1</h4>
+            <p>In this episode we first introduce Claire VanGo, where we host this episode. The intro has been updated to better stress what we cover, this is a personal exploration through the climbing community and climbing lifestyle. We start covering the different types of climbing but run out of clock. Consider this episode to be continued.</p>
+
+            <p>Sun, 13 Nov 2016 19:31:07 PDT</p>
+            <p><a href="http://www.southbeta.com/episodes/south-beta-004.mp3">Episode</a></p>    
+          </article>
+
+          <article>
+            <h4>South Beta: 03</h4>
+            <p>This is our third installment of our South Beta podcast. We talk about various topics including our outdoor climbing adventures, the three stitch pitch, and seeing Alex Honnald from a far.</p>
+
+            <p>Sun, 6 Nov 2016 15:03:07 PDT</p>
+            <p><a href="http://www.southbeta.com/episodes/south-beta-003.mp3">Episode</a></p>    
+          </article>
+
+          <article>
+            <h4>South Beta: 02</h4>
+            <p>Episode Number 2 of the new South Beta Podcast.</p>
+
+            <p>Mon, 3 Oct 2016 09:00:07 PDT</p>
+            <p><a href="http://www.southbeta.com/episodes/south-beta-002.mp3">Episode</a></p>    
+          </article>
+
+          <article>
+            <h4>South Beta: 01</h4>
+            <p>Introduction to the podcast series.</p>
+
+            <p>Mon, 3 Oct 2016 09:00:07 PDT</p>
+            <p><a href="http://www.southbeta.com/episodes/RockJocks1-cut.mp3">Episode</a></p>    
+          </article>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="about">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 mx-auto">
+          <h2>About this page</h2>
+          <p class="lead">This is a great place to talk about your webpage. This template is purposefully unstyled so you can use it as a boilerplate or starting point for you own landing page designs! This template features:</p>
+          <ul>
+            <li>Clickable nav links that smooth scroll to page sections</li>
+            <li>Responsive behavior when clicking nav links perfect for a one page website</li>
+            <li>Bootstrap's scrollspy feature which highlights which section of the page you're on in the navbar</li>
+            <li>Minimal custom CSS so you are free to explore your own unique design options</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  
+
+  <!-- Footer -->
+  <footer class="py-5 bg-dark">
+    <div class="container">
+      <p class="m-0 text-center text-white">Copyright &copy; <a href="http://www.zacharyc.com">zacharyc</a> 2020</p>
+    </div>
+    <!-- /.container -->
+  </footer>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Plugin JavaScript -->
+  <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+  <!-- Custom JavaScript for this theme -->
+  <script src="js/scrolling-nav.js"></script>
+
+</body>
+
+</html>
