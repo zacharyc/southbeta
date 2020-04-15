@@ -21,6 +21,22 @@
           <itunes:author>Zack &amp; Evan</itunes:author>
             <itunes:keywords/>
           <itunes:duration>00:48:20</itunes:duration>
+          <title>South Beta Season 3, Episode 3: The GREAT AR!</title>
+          <itunes:image href="http://www.southbeta.com/southbeta.png"/>
+          <guid isPermaLink="true">http://www.southbeta.com/episodes/south-beta-s3-e003.mp3</guid>
+          <itunes:summary>This episode has been in the making for years. On this episode, our good friend and head route setter at Planet Granite Sunnyvale, Adriel Rodriguez, joins us to talk about his passion for all things climbing. We talk about how he designs his own training, how coaching one sport translates to another, and what still drives his passion for Climbing after starting over 12 years ago. Evan continually calls this: "maybe our best episode yet." Come check it out!</itunes:summary>
+
+          <description>This episode has been in the making for years. On this episode, our good friend and head route setter at Planet Granite Sunnyvale, Adriel Rodriguez, joins us to talk about his passion for all things climbing. We talk about how he designs his own training, how coaching one sport translates to another, and what still drives his passion for Climbing after starting over 12 years ago. Evan continually calls this: "maybe our best episode yet." Come check it out!</description>
+
+          <category>News</category>
+          <pubDate>MON, 06 Apr 2020 14:04:07 PDT</pubDate>
+          <enclosure length="97872375" url="http://www.southbeta.com/episodes/south-beta-s3-e003.mp3" type="audio/mpeg"/>
+      </item>
+
+      <item>
+          <itunes:author>Zack &amp; Evan</itunes:author>
+            <itunes:keywords/>
+          <itunes:duration>00:48:20</itunes:duration>
           <title>South Beta Season 3, Episode 2: P.O.P. The Point of Podcast Episode</title>
           <itunes:image href="http://www.southbeta.com/southbeta.png"/>
           <guid isPermaLink="true">http://www.southbeta.com/episodes/south-beta-s3-e002.mp3</guid>
